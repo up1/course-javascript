@@ -1,7 +1,7 @@
 # Course Javascript
 
-* Day 1 :: Basic of Angular
-* Day 2 :: Basic of React
+* Day 1 :: Basic of React
+* Day 2 :: Basic of Angular
 
 ## Resources
 * [Workshop for React](https://github.com/up1/workshop-react-note)
