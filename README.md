@@ -1,6 +1,6 @@
-# Course Javascript
+# Course Basic of Javascript Development
 
-* Day 1 :: Basic of React
+* Day 1 :: Basic of ReactJS
 * Day 2 :: Basic of Angular
 
 ## Resources
