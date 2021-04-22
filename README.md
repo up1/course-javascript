@@ -3,6 +3,10 @@
 * Day 1 :: Basic of ReactJS
 * Day 2 :: Basic of Angular
 
+## Deploy to GitHub Pages
+* [ReactJS](https://create-react-app.dev/docs/deployment/#github-pages)
+* [Angular](https://www.npmjs.com/package/angular-cli-ghpages)
+
 ## Resources
 * [Workshop for React](https://github.com/up1/workshop-react-note)
 * [Workshop for Angular](https://github.com/up1/workshop-angular-note)
