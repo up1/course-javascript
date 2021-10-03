@@ -1,7 +1,7 @@
 # Course Basic of Javascript Development
 
-* Day 1 :: Basic of ReactJS
-* Day 2 :: Basic of Angular
+* Day 1 : Basic of ReactJS
+* Day 2 : Basic of Angular
 
 ## Deploy to GitHub Pages
 * [ReactJS](https://create-react-app.dev/docs/deployment/#github-pages)
