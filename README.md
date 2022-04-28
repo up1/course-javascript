@@ -1,6 +1,6 @@
 # Course Basic of Javascript Development
 
-* Day 1 : Basic of ReactJS
+* Day 1 : Basic of ReactJS (React Hook)
 * Day 2 : Basic of Angular
 
 ## Deploy to GitHub Pages
