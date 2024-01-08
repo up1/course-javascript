@@ -1,7 +1,13 @@
 # Course Basic of Javascript Development
 
-* Day 1 : Basic of ReactJS (React Hook)
-* Day 2 : Basic of Angular
+* Basic of ReactJS (React Hook)
+  * ReactJS
+  * JSX
+  * Component
+  * React Hook
+  * Workshop
+  * Working with Docker
+* Basic of Angular
 
 ## Deploy to GitHub Pages
 * [ReactJS](https://create-react-app.dev/docs/deployment/#github-pages)
